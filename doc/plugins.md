@@ -260,6 +260,9 @@ The list of plugins:
   — parse YAML nodes and expose their value as `parsedValue`
 * 🟢 [`remark-pdf`](https://github.com/inokawa/remark-pdf)
   — compile markdown to pdf
+* 🟢 [`remark-pele`](https://github.com/yue1123/pele-markdown/tree/main/packages/remark-pele)
+  — render mermaid code blocks to inline SVG at build time with pele,
+  without a headless browser
 * ⚠️ [`remark-ping`](https://github.com/zestedesavoir/zmarkdown/tree/HEAD/packages/remark-ping#readme)
   — new syntax for mentions w/ configurable existence check (new node
   type, rehype compatible)
